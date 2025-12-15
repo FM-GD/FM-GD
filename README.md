@@ -1,10 +1,9 @@
 ## My Skills
-
-<img src="https://img.shields.io/badge/Construct%203-00FFDA?logo=construct3&logoColor=000&"> 
-<img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white"> 
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
-<img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white">
+![Construct 3](https://img.shields.io/badge/CONSTRUCT-BLUE?style=for-the-badge&logo=construct3&logoColor=%23313131&logoSize=auto&labelColor=%2300FFDA&color=%2300FFDA)
+![Unreal Engine](https://img.shields.io/badge/UNREAL%20ENGINE-DARKBLUE?style=for-the-badge&logo=unrealengine&logoColor=%23FFFFFF&logoSize=auto&labelColor=%230E1128&color=%230E1128)
+![CSS](https://img.shields.io/badge/CSS-PURPLE?style=for-the-badge&logo=css&logoColor=%23FFFFFF&logoSize=auto&labelColor=%23663399&color=%23663399)
+![Javascript](https://img.shields.io/badge/JAVASCRIPT-YELLOW?style=for-the-badge&logo=javascript&logoColor=%23121212&logoSize=auto&labelColor=%23F7DF1E&color=%23F7DF1E)
+![Markdown](https://img.shields.io/badge/MARKDOWN-BLACKANDWHITE?style=for-the-badge&logo=markdown&logoSize=auto&labelColor=%23000000&color=%23000000)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/davinci_resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
