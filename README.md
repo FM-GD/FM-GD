@@ -30,7 +30,8 @@ D\*D\*D\* BTEC Level 3 in Game Dev & New Media
 ## Gaming
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Static Badge](https://img.shields.io/badge/GOG-purple?style=for-the-badge&logo=gogdotcom&logoColor=FFFFFF&logoSize=auto&labelColor=%235100DC&color=%235100DC)
+![GOG](https://img.shields.io/badge/GOG-purple?style=for-the-badge&logo=gogdotcom&logoColor=FFFFFF&logoSize=auto&labelColor=%235100DC&color=%235100DC)
+![Steam Deck](https://img.shields.io/badge/STEAM%20DECK-BLUE?style=for-the-badge&logo=steamdeck&logoColor=%23ffffff&logoSize=auto&labelColor=%231A9FFF&color=%231A9FFF)
 ![Playstation 3](https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white)
 ![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
 ![Playstation Vita](https://img.shields.io/badge/Playstation%20Vita-003791?style=for-the-badge&logo=playstation-vita&logoColor=white)
@@ -38,13 +39,26 @@ D\*D\*D\* BTEC Level 3 in Game Dev & New Media
 
 
 ## Music
-![Static Badge](https://img.shields.io/badge/TIDAL-BLUEWHITE?style=for-the-badge&logo=tidal&logoColor=%23181a1b&logoSize=auto&labelColor=%2300cccc&color=%2300cccc)
+![Discogs](https://img.shields.io/badge/DISCOGS-GRAY?style=for-the-badge&logo=discogs&logoColor=%23ffffff&logoSize=auto&labelColor=%23333333&color=%23333333)
+![TIDAL](https://img.shields.io/badge/TIDAL-BLUEWHITE?style=for-the-badge&logo=tidal&logoColor=%23181a1b&logoSize=auto&labelColor=%2300cccc&color=%2300cccc)
 ![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)
 ![Musixmatch](https://img.shields.io/badge/Musixmatch-%23FF5353.svg?style=for-the-badge&logo=Musixmatch&logoColor=white)
+![Bandlab](https://img.shields.io/badge/BANDLAB-RED?style=for-the-badge&logo=bandlab&logoColor=%23ffffff&logoSize=auto&labelColor=%23F12C18&color=%23F12C18)
+
+
 
 ## Other
-
+![Internet Archive](https://img.shields.io/badge/INTERNET%20ARCHIVE-GRAY?style=for-the-badge&logo=internetarchive&logoColor=%23ffffff&logoSize=auto&labelColor=%23666666&color=%23666666)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![7Zip](https://img.shields.io/badge/7ZIP-Black?style=for-the-badge&logo=7zip&logoColor=%23ffffff&logoSize=auto&labelColor=%23000000&color=%23000000)
+![OBS Studio](https://img.shields.io/badge/OBS%20STUDIO-GRAY?style=for-the-badge&logo=obsstudio&logoColor=%23ffffff&logoSize=auto&labelColor=%23302E31&color=%23302E31)
+![Flatpak](https://img.shields.io/badge/FLATPAK-BLUE?style=for-the-badge&logo=flatpak&logoColor=%23ffffff&logoSize=auto&labelColor=%234A90D9&color=%234A90D9)
+![Plex](https://img.shields.io/badge/PLEX-YELLOW?style=for-the-badge&logo=plex&logoColor=%23ebaf00&logoSize=auto&labelColor=%23191919&color=%23191919)
+
+
+
+
+
 
 
 ## GitHub Stats
