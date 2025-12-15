@@ -61,10 +61,14 @@ D\*D\*D\* BTEC Level 3 in Game Dev & New Media
 
 
 
+
+
+
 ## GitHub Stats
 
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=FM-GD&theme=dark&show_icons=true&count_private=true">
 
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=FM-GD&theme=dark"></td><td width="50%" align="center">
-<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=FM-GD&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+
+<div> 
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FM-GD&theme=github_dark" height="180em" />
+</div>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=FM-GD&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
